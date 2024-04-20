@@ -1,6 +1,8 @@
 # TMDB-5000-Movie-Dataset
 This project aims to gain some insight into the data for further modeling it to investigate the profitability of the movies and predict whether based on some features a movie is profitable or
 not. <br>
+This analysis and package is developed based on this kaggle dataset: <br>
+https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata/data?select=tmdb_5000_movies.csv <br>
 What can we say about the success of a movie before it is released? Are there certain companies (Pixar?) that have found a consistent formula? <br>
 Given that major films costing over $100 million to produce can still flop, this question is more important than ever to the industry. Film aficionados might have different interests. Can we predict which films will be highly rated, whether or not they are a commercial success? <br>
 We are trying to answer these questions by exploring the data and using some machine-learning techniques. <br>
